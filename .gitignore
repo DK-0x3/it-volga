@@ -2,3 +2,4 @@
 .venv
 allure-report/
 allure-results/
+/.idea/
